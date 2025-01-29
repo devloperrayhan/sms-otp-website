@@ -49,4 +49,5 @@ webpack.common.js
 webpack.config.dev.js
 webpack.config.prod.js
 
-view page : https://devloperrayhan.github.io/sms-otp-website/
+view page :
+https://devloperrayhan.github.io/sms-otp-website/
